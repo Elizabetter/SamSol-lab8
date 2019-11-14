@@ -1,0 +1,27 @@
+
+textarea {
+    width: 80%;
+    height: 100px;
+    min-height: 80px;
+    min-width: 80%;
+    max-width: 80%;
+    margin: 5px 10%;
+}
+
+
+
+
+.note {
+    background-color: #ccc;
+    border: 1px solid blue;
+    padding: 5px;
+    width: 170px;
+    height: 200px;
+    float: left;
+    overflow: auto;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+}
+
+
+
